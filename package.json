@@ -1,0 +1,19 @@
+{
+  "name": "flatstore",
+  "version": "1.0.0",
+  "description": "flatstore cliente servidor",
+  "main": "index.js",
+  "scripts": {
+  	"start": "nodemon FSindex.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JosueXR",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
